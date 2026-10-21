@@ -2,14 +2,68 @@
 	"note": "Corrected layout boxes, in the page image's pixel space. The measure zones in score.mei are the measure boxes grown by a margin.",
 	"instruments": [
 		{
+			"id": "i26",
+			"name": "Flöte",
+			"abbr": "",
+			"grand": false,
+			"parts": [
+				{
+					"name": "I"
+				},
+				{
+					"name": "II"
+				}
+			],
+			"staves": [
+				{
+					"id": "i26-1",
+					"parts": [
+						0
+					]
+				},
+				{
+					"id": "i26-2",
+					"parts": [
+						1
+					]
+				}
+			]
+		},
+		{
+			"id": "i27",
+			"name": "Oboe",
+			"abbr": "",
+			"grand": false,
+			"parts": [
+				{
+					"name": "I"
+				},
+				{
+					"name": "II"
+				}
+			],
+			"staves": [
+				{
+					"id": "i27-1",
+					"parts": [
+						0,
+						1
+					]
+				}
+			]
+		},
+		{
 			"id": "i9",
 			"name": "Pauken in A, e",
 			"staves": [
 				{
 					"id": "i9-1",
-					"label": ""
+					"parts": []
 				}
-			]
+			],
+			"abbr": "",
+			"grand": false,
+			"parts": []
 		},
 		{
 			"id": "i10",
@@ -17,9 +71,12 @@
 			"staves": [
 				{
 					"id": "i10-1",
-					"label": ""
+					"parts": []
 				}
-			]
+			],
+			"abbr": "",
+			"grand": false,
+			"parts": []
 		},
 		{
 			"id": "i11",
@@ -27,9 +84,12 @@
 			"staves": [
 				{
 					"id": "i11-1",
-					"label": ""
+					"parts": []
 				}
-			]
+			],
+			"abbr": "",
+			"grand": false,
+			"parts": []
 		},
 		{
 			"id": "i12",
@@ -37,9 +97,12 @@
 			"staves": [
 				{
 					"id": "i12-1",
-					"label": ""
+					"parts": []
 				}
-			]
+			],
+			"abbr": "",
+			"grand": false,
+			"parts": []
 		},
 		{
 			"id": "i13",
@@ -47,9 +110,12 @@
 			"staves": [
 				{
 					"id": "i13-1",
-					"label": ""
+					"parts": []
 				}
-			]
+			],
+			"abbr": "",
+			"grand": false,
+			"parts": []
 		},
 		{
 			"id": "i14",
@@ -57,9 +123,12 @@
 			"staves": [
 				{
 					"id": "i14-1",
-					"label": ""
+					"parts": []
 				}
-			]
+			],
+			"abbr": "",
+			"grand": false,
+			"parts": []
 		},
 		{
 			"id": "i15",
@@ -67,9 +136,12 @@
 			"staves": [
 				{
 					"id": "i15-1",
-					"label": ""
+					"parts": []
 				}
-			]
+			],
+			"abbr": "",
+			"grand": false,
+			"parts": []
 		},
 		{
 			"id": "i16",
@@ -77,9 +149,12 @@
 			"staves": [
 				{
 					"id": "i16-1",
-					"label": ""
+					"parts": []
 				}
-			]
+			],
+			"abbr": "",
+			"grand": false,
+			"parts": []
 		},
 		{
 			"id": "i25",
@@ -87,9 +162,12 @@
 			"staves": [
 				{
 					"id": "i25-1",
-					"label": ""
+					"parts": []
 				}
-			]
+			],
+			"abbr": "",
+			"grand": false,
+			"parts": []
 		},
 		{
 			"id": "i1",
@@ -97,9 +175,12 @@
 			"staves": [
 				{
 					"id": "i1-1",
-					"label": ""
+					"parts": []
 				}
-			]
+			],
+			"abbr": "",
+			"grand": false,
+			"parts": []
 		},
 		{
 			"id": "i2",
@@ -107,9 +188,12 @@
 			"staves": [
 				{
 					"id": "i2-1",
-					"label": ""
+					"parts": []
 				}
-			]
+			],
+			"abbr": "",
+			"grand": false,
+			"parts": []
 		},
 		{
 			"id": "i19",
@@ -117,13 +201,16 @@
 			"staves": [
 				{
 					"id": "i19-1",
-					"label": ""
+					"parts": []
 				},
 				{
 					"id": "i19-2",
-					"label": "div. 1"
+					"parts": []
 				}
-			]
+			],
+			"abbr": "",
+			"grand": false,
+			"parts": []
 		},
 		{
 			"id": "i20",
@@ -131,9 +218,12 @@
 			"staves": [
 				{
 					"id": "i20-1",
-					"label": ""
+					"parts": []
 				}
-			]
+			],
+			"abbr": "",
+			"grand": false,
+			"parts": []
 		},
 		{
 			"id": "i21",
@@ -141,9 +231,12 @@
 			"staves": [
 				{
 					"id": "i21-1",
-					"label": ""
+					"parts": []
 				}
-			]
+			],
+			"abbr": "",
+			"grand": false,
+			"parts": []
 		},
 		{
 			"id": "i22",
@@ -151,21 +244,24 @@
 			"staves": [
 				{
 					"id": "i22-1",
-					"label": ""
+					"parts": []
 				},
 				{
 					"id": "i22-2",
-					"label": "div. 1"
+					"parts": []
 				},
 				{
 					"id": "i22-3",
-					"label": "div. 2"
+					"parts": []
 				},
 				{
 					"id": "i22-4",
-					"label": "div. 3"
+					"parts": []
 				}
-			]
+			],
+			"abbr": "",
+			"grand": false,
+			"parts": []
 		},
 		{
 			"id": "i23",
@@ -173,9 +269,12 @@
 			"staves": [
 				{
 					"id": "i23-1",
-					"label": ""
+					"parts": []
 				}
-			]
+			],
+			"abbr": "",
+			"grand": false,
+			"parts": []
 		},
 		{
 			"id": "i24",
@@ -183,12 +282,16 @@
 			"staves": [
 				{
 					"id": "i24-1",
-					"label": ""
+					"parts": []
 				}
-			]
+			],
+			"abbr": "",
+			"grand": false,
+			"parts": []
 		}
 	],
 	"groups": [],
+	"instrumentsFixed": false,
 	"pages": [
 		{
 			"image": "../img/04.jpg",
@@ -242,21 +345,21 @@
 					"uly": 598,
 					"lrx": 2334,
 					"lry": 662,
-					"staff": "i1-1"
+					"staff": "i26-1"
 				},
 				{
 					"ulx": 475,
 					"uly": 729,
 					"lrx": 2336,
 					"lry": 795,
-					"staff": "i2-1"
+					"staff": "i26-2"
 				},
 				{
 					"ulx": 477,
 					"uly": 883,
 					"lrx": 2336,
 					"lry": 962,
-					"staff": "i19-1"
+					"staff": "i27-1"
 				},
 				{
 					"ulx": 474,
