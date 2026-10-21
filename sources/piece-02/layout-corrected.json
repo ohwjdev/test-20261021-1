@@ -4,7 +4,7 @@
 		{
 			"id": "i26",
 			"name": "Flöte",
-			"abbr": "",
+			"abbr": "Fl.",
 			"grand": false,
 			"parts": [
 				{
@@ -51,6 +51,130 @@
 					]
 				}
 			]
+		},
+		{
+			"id": "i28",
+			"name": "Klarinette in A",
+			"abbr": "",
+			"grand": false,
+			"parts": [
+				{
+					"name": "I"
+				},
+				{
+					"name": "II"
+				}
+			],
+			"staves": [
+				{
+					"id": "i28-1",
+					"parts": [
+						0,
+						1
+					]
+				}
+			]
+		},
+		{
+			"id": "i29",
+			"name": "Fagott",
+			"abbr": "",
+			"grand": false,
+			"parts": [
+				{
+					"name": "I"
+				},
+				{
+					"name": "II"
+				}
+			],
+			"staves": [
+				{
+					"id": "i29-1",
+					"parts": [
+						0,
+						1
+					]
+				}
+			]
+		},
+		{
+			"id": "i22",
+			"name": "Horn in F",
+			"staves": [
+				{
+					"id": "i22-1",
+					"parts": []
+				},
+				{
+					"id": "i22-2",
+					"parts": []
+				},
+				{
+					"id": "i22-3",
+					"parts": []
+				},
+				{
+					"id": "i22-4",
+					"parts": []
+				},
+				{
+					"id": "i22-5",
+					"parts": [
+						0,
+						1
+					]
+				},
+				{
+					"id": "i22-6",
+					"parts": [
+						2,
+						3
+					]
+				}
+			],
+			"abbr": "",
+			"grand": false,
+			"parts": [
+				{
+					"name": "1"
+				},
+				{
+					"name": "2"
+				},
+				{
+					"name": "3"
+				},
+				{
+					"name": "4"
+				}
+			]
+		},
+		{
+			"id": "i23",
+			"name": "Trompete in F",
+			"staves": [
+				{
+					"id": "i23-1",
+					"parts": []
+				}
+			],
+			"abbr": "",
+			"grand": false,
+			"parts": []
+		},
+		{
+			"id": "i24",
+			"name": "Posaune",
+			"staves": [
+				{
+					"id": "i24-1",
+					"parts": []
+				}
+			],
+			"abbr": "",
+			"grand": false,
+			"parts": []
 		},
 		{
 			"id": "i9",
@@ -237,60 +361,18 @@
 			"abbr": "",
 			"grand": false,
 			"parts": []
-		},
-		{
-			"id": "i22",
-			"name": "Horn in F",
-			"staves": [
-				{
-					"id": "i22-1",
-					"parts": []
-				},
-				{
-					"id": "i22-2",
-					"parts": []
-				},
-				{
-					"id": "i22-3",
-					"parts": []
-				},
-				{
-					"id": "i22-4",
-					"parts": []
-				}
-			],
-			"abbr": "",
-			"grand": false,
-			"parts": []
-		},
-		{
-			"id": "i23",
-			"name": "Trompete in F",
-			"staves": [
-				{
-					"id": "i23-1",
-					"parts": []
-				}
-			],
-			"abbr": "",
-			"grand": false,
-			"parts": []
-		},
-		{
-			"id": "i24",
-			"name": "Posaune",
-			"staves": [
-				{
-					"id": "i24-1",
-					"parts": []
-				}
-			],
-			"abbr": "",
-			"grand": false,
-			"parts": []
 		}
 	],
-	"groups": [],
+	"groups": [
+		{
+			"id": "g1",
+			"first": "i26",
+			"last": "i21",
+			"symbol": "bracket",
+			"label": "Holzbläser",
+			"barThru": false
+		}
+	],
 	"instrumentsFixed": false,
 	"pages": [
 		{
@@ -366,28 +448,28 @@
 					"uly": 1032,
 					"lrx": 2336,
 					"lry": 1116,
-					"staff": "i20-1"
+					"staff": "i28-1"
 				},
 				{
 					"ulx": 491,
 					"uly": 1215,
 					"lrx": 2337,
 					"lry": 1281,
-					"staff": "i21-1"
+					"staff": "i29-1"
 				},
 				{
 					"ulx": 465,
 					"uly": 1349,
 					"lrx": 2335,
 					"lry": 1424,
-					"staff": "i22-2"
+					"staff": "i22-5"
 				},
 				{
 					"ulx": 473,
 					"uly": 1477,
 					"lrx": 2335,
 					"lry": 1544,
-					"staff": "i22-3"
+					"staff": "i22-6"
 				},
 				{
 					"ulx": 473,
