@@ -347,6 +347,14 @@
 			"symbol": "bracket",
 			"label": "Holzbläser",
 			"barThru": false
+		},
+		{
+			"id": "g2",
+			"first": "i27",
+			"last": "i21",
+			"symbol": "bracket",
+			"label": "",
+			"barThru": false
 		}
 	],
 	"instrumentsFixed": false,

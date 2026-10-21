@@ -111,89 +111,91 @@
                               <labelAbbr xml:id="labelAbbr-3">II</labelAbbr>
                            </staffDef>
                         </staffGrp>
-                        <staffGrp xml:id="i27" symbol="bracket" bar.thru="true">
-                           <label xml:id="label-5">Oboe</label>
-                           <labelAbbr xml:id="labelAbbr-4">Ob.</labelAbbr>
-                           <instrDef xml:id="instrDef-2"/>
-                           <staffDef xml:id="i27-1" n="3" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4">
-                              <label xml:id="label-6">I.II</label>
-                              <labelAbbr xml:id="labelAbbr-5">I.II</labelAbbr>
-                              <layerDef xml:id="layerDef-1" n="1"><label xml:id="label-7">I</label></layerDef>
-                              <layerDef xml:id="layerDef-2" n="2"><label xml:id="label-8">II</label></layerDef>
+                        <staffGrp xml:id="g2" symbol="bracket">
+                           <staffGrp xml:id="i27" symbol="bracket" bar.thru="true">
+                              <label xml:id="label-5">Oboe</label>
+                              <labelAbbr xml:id="labelAbbr-4">Ob.</labelAbbr>
+                              <instrDef xml:id="instrDef-2"/>
+                              <staffDef xml:id="i27-1" n="3" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4">
+                                 <label xml:id="label-6">I.II</label>
+                                 <labelAbbr xml:id="labelAbbr-5">I.II</labelAbbr>
+                                 <layerDef xml:id="layerDef-1" n="1"><label xml:id="label-7">I</label></layerDef>
+                                 <layerDef xml:id="layerDef-2" n="2"><label xml:id="label-8">II</label></layerDef>
+                              </staffDef>
+                           </staffGrp>
+                           <staffGrp xml:id="i28" symbol="bracket" bar.thru="true">
+                              <label xml:id="label-9">Klarinette in A</label>
+                              <instrDef xml:id="instrDef-3"/>
+                              <staffDef xml:id="i28-1" n="4" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4">
+                                 <label xml:id="label-10">I.II</label>
+                                 <labelAbbr xml:id="labelAbbr-6">I.II</labelAbbr>
+                                 <layerDef xml:id="layerDef-3" n="1"><label xml:id="label-11">I</label></layerDef>
+                                 <layerDef xml:id="layerDef-4" n="2"><label xml:id="label-12">II</label></layerDef>
+                              </staffDef>
+                           </staffGrp>
+                           <staffDef xml:id="i29-1" n="5" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4">
+                              <label xml:id="label-13">Fagott</label>
+                           </staffDef>
+                           <staffGrp xml:id="i22" symbol="bracket" bar.thru="true">
+                              <label xml:id="label-14">Horn in F</label>
+                              <instrDef xml:id="instrDef-4"/>
+                              <staffDef xml:id="i22-1" n="6" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4"/>
+                              <staffDef xml:id="i22-2" n="7" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4"/>
+                              <staffDef xml:id="i22-3" n="8" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4"/>
+                              <staffDef xml:id="i22-4" n="9" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4"/>
+                           </staffGrp>
+                           <staffDef xml:id="i23-1" n="10" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4">
+                              <label xml:id="label-15">Trompete in F</label>
+                           </staffDef>
+                           <staffDef xml:id="i24-1" n="11" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4">
+                              <label xml:id="label-16">Posaune</label>
+                           </staffDef>
+                           <staffDef xml:id="i9-1" n="12" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4">
+                              <label xml:id="label-17">Pauken in A, e</label>
+                           </staffDef>
+                           <staffDef xml:id="i10-1" n="13" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4">
+                              <label xml:id="label-18">Kleine Trommel</label>
+                           </staffDef>
+                           <staffDef xml:id="i11-1" n="14" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4">
+                              <label xml:id="label-19">Große Trommel</label>
+                           </staffDef>
+                           <staffDef xml:id="i12-1" n="15" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4">
+                              <label xml:id="label-20">Glocke in E</label>
+                           </staffDef>
+                           <staffDef xml:id="i13-1" n="16" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4">
+                              <label xml:id="label-21">Violine I</label>
+                           </staffDef>
+                           <staffDef xml:id="i14-1" n="17" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4">
+                              <label xml:id="label-22">Violine II</label>
+                           </staffDef>
+                           <staffDef xml:id="i15-1" n="18" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4">
+                              <label xml:id="label-23">Viola</label>
+                           </staffDef>
+                           <staffDef xml:id="i16-1" n="19" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4">
+                              <label xml:id="label-24">Violoncello</label>
+                           </staffDef>
+                           <staffDef xml:id="i25-1" n="20" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4">
+                              <label xml:id="label-25">Kontrabass</label>
+                           </staffDef>
+                           <staffDef xml:id="i1-1" n="21" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4">
+                              <label xml:id="label-26">Flöte I</label>
+                           </staffDef>
+                           <staffDef xml:id="i2-1" n="22" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4">
+                              <label xml:id="label-27">Flöte II</label>
+                           </staffDef>
+                           <staffDef xml:id="i19-1" n="23" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4">
+                              <label xml:id="label-28">Oboe I, II</label>
+                           </staffDef>
+                           <staffDef xml:id="i19-2" n="24" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4">
+                              <label xml:id="label-29">Oboe I, II</label>
+                           </staffDef>
+                           <staffDef xml:id="i20-1" n="25" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4">
+                              <label xml:id="label-30">Klarinette in A I, II</label>
+                           </staffDef>
+                           <staffDef xml:id="i21-1" n="26" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4">
+                              <label xml:id="label-31">Fagott I, II</label>
                            </staffDef>
                         </staffGrp>
-                        <staffGrp xml:id="i28" symbol="bracket" bar.thru="true">
-                           <label xml:id="label-9">Klarinette in A</label>
-                           <instrDef xml:id="instrDef-3"/>
-                           <staffDef xml:id="i28-1" n="4" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4">
-                              <label xml:id="label-10">I.II</label>
-                              <labelAbbr xml:id="labelAbbr-6">I.II</labelAbbr>
-                              <layerDef xml:id="layerDef-3" n="1"><label xml:id="label-11">I</label></layerDef>
-                              <layerDef xml:id="layerDef-4" n="2"><label xml:id="label-12">II</label></layerDef>
-                           </staffDef>
-                        </staffGrp>
-                        <staffDef xml:id="i29-1" n="5" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4">
-                           <label xml:id="label-13">Fagott</label>
-                        </staffDef>
-                        <staffGrp xml:id="i22" symbol="bracket" bar.thru="true">
-                           <label xml:id="label-14">Horn in F</label>
-                           <instrDef xml:id="instrDef-4"/>
-                           <staffDef xml:id="i22-1" n="6" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4"/>
-                           <staffDef xml:id="i22-2" n="7" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4"/>
-                           <staffDef xml:id="i22-3" n="8" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4"/>
-                           <staffDef xml:id="i22-4" n="9" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4"/>
-                        </staffGrp>
-                        <staffDef xml:id="i23-1" n="10" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4">
-                           <label xml:id="label-15">Trompete in F</label>
-                        </staffDef>
-                        <staffDef xml:id="i24-1" n="11" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4">
-                           <label xml:id="label-16">Posaune</label>
-                        </staffDef>
-                        <staffDef xml:id="i9-1" n="12" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4">
-                           <label xml:id="label-17">Pauken in A, e</label>
-                        </staffDef>
-                        <staffDef xml:id="i10-1" n="13" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4">
-                           <label xml:id="label-18">Kleine Trommel</label>
-                        </staffDef>
-                        <staffDef xml:id="i11-1" n="14" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4">
-                           <label xml:id="label-19">Große Trommel</label>
-                        </staffDef>
-                        <staffDef xml:id="i12-1" n="15" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4">
-                           <label xml:id="label-20">Glocke in E</label>
-                        </staffDef>
-                        <staffDef xml:id="i13-1" n="16" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4">
-                           <label xml:id="label-21">Violine I</label>
-                        </staffDef>
-                        <staffDef xml:id="i14-1" n="17" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4">
-                           <label xml:id="label-22">Violine II</label>
-                        </staffDef>
-                        <staffDef xml:id="i15-1" n="18" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4">
-                           <label xml:id="label-23">Viola</label>
-                        </staffDef>
-                        <staffDef xml:id="i16-1" n="19" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4">
-                           <label xml:id="label-24">Violoncello</label>
-                        </staffDef>
-                        <staffDef xml:id="i25-1" n="20" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4">
-                           <label xml:id="label-25">Kontrabass</label>
-                        </staffDef>
-                        <staffDef xml:id="i1-1" n="21" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4">
-                           <label xml:id="label-26">Flöte I</label>
-                        </staffDef>
-                        <staffDef xml:id="i2-1" n="22" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4">
-                           <label xml:id="label-27">Flöte II</label>
-                        </staffDef>
-                        <staffDef xml:id="i19-1" n="23" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4">
-                           <label xml:id="label-28">Oboe I, II</label>
-                        </staffDef>
-                        <staffDef xml:id="i19-2" n="24" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4">
-                           <label xml:id="label-29">Oboe I, II</label>
-                        </staffDef>
-                        <staffDef xml:id="i20-1" n="25" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4">
-                           <label xml:id="label-30">Klarinette in A I, II</label>
-                        </staffDef>
-                        <staffDef xml:id="i21-1" n="26" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4">
-                           <label xml:id="label-31">Fagott I, II</label>
-                        </staffDef>
                      </staffGrp>
                   </staffGrp>
                </scoreDef>
