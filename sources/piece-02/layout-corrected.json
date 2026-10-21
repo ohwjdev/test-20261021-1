@@ -294,19 +294,6 @@
 			"parts": []
 		},
 		{
-			"id": "i1",
-			"name": "Flöte I",
-			"staves": [
-				{
-					"id": "i1-1",
-					"parts": []
-				}
-			],
-			"abbr": "",
-			"grand": false,
-			"parts": []
-		},
-		{
 			"id": "i2",
 			"name": "Flöte II",
 			"staves": [
@@ -361,13 +348,26 @@
 			"abbr": "",
 			"grand": false,
 			"parts": []
+		},
+		{
+			"id": "i1",
+			"name": "Flöte I",
+			"staves": [
+				{
+					"id": "i1-1",
+					"parts": []
+				}
+			],
+			"abbr": "",
+			"grand": false,
+			"parts": []
 		}
 	],
 	"groups": [
 		{
 			"id": "g1",
 			"first": "i26",
-			"last": "i21",
+			"last": "i1",
 			"symbol": "bracket",
 			"label": "Holzbläser",
 			"barThru": false
@@ -657,7 +657,7 @@
 					"uly": 238,
 					"lrx": 2339,
 					"lry": 301,
-					"staff": "i1-1"
+					"staff": "i26-1"
 				},
 				{
 					"ulx": 265,
