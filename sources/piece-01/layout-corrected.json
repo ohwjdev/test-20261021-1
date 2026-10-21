@@ -1,6 +1,37 @@
 {
 	"note": "Corrected layout boxes, in the page image's pixel space. The measure zones in score.mei are the measure boxes grown by a margin.",
-	"instruments": [],
+	"instruments": [
+		{
+			"id": "i1",
+			"name": "Singstimme. Tenor",
+			"abbr": "",
+			"grand": false,
+			"parts": [],
+			"staves": [
+				{
+					"id": "i1-1",
+					"parts": []
+				}
+			]
+		},
+		{
+			"id": "i2",
+			"name": "Klavier",
+			"abbr": "",
+			"grand": true,
+			"parts": [],
+			"staves": [
+				{
+					"id": "i2-1",
+					"parts": []
+				},
+				{
+					"id": "i2-2",
+					"parts": []
+				}
+			]
+		}
+	],
 	"groups": [],
 	"instrumentsFixed": false,
 	"pages": [
@@ -109,19 +140,22 @@
 					"ulx": 554,
 					"uly": 695,
 					"lrx": 2452,
-					"lry": 781
+					"lry": 781,
+					"staff": "i1-1"
 				},
 				{
 					"ulx": 556,
 					"uly": 919,
 					"lrx": 2449,
-					"lry": 1007
+					"lry": 1007,
+					"staff": "i2-1"
 				},
 				{
 					"ulx": 554,
 					"uly": 1146,
 					"lrx": 2450,
-					"lry": 1232
+					"lry": 1232,
+					"staff": "i2-2"
 				},
 				{
 					"ulx": 222,
