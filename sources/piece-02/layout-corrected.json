@@ -162,6 +162,16 @@
 			]
 		},
 		{
+			"id": "i19",
+			"name": "Oboe I, II",
+			"staves": [
+				{
+					"id": "i19-1",
+					"label": ""
+				}
+			]
+		},
+		{
 			"id": "i3",
 			"name": "Oboe fi",
 			"staves": [
@@ -250,7 +260,7 @@
 					"uly": 883,
 					"lrx": 2336,
 					"lry": 962,
-					"staff": "i3-1"
+					"staff": "i19-1"
 				},
 				{
 					"ulx": 474,
