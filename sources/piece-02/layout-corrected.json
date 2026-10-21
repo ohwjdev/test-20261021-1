@@ -76,17 +76,17 @@
 			]
 		},
 		{
-			"id": "i21",
-			"name": "Fagott I, II",
-			"staves": [
-				{
-					"id": "i21-1",
-					"parts": []
-				}
-			],
+			"id": "i29",
+			"name": "Fagott",
 			"abbr": "",
 			"grand": false,
-			"parts": []
+			"parts": [],
+			"staves": [
+				{
+					"id": "i29-1",
+					"parts": []
+				}
+			]
 		},
 		{
 			"id": "i22",
@@ -324,13 +324,26 @@
 			"abbr": "",
 			"grand": false,
 			"parts": []
+		},
+		{
+			"id": "i21",
+			"name": "Fagott I, II",
+			"staves": [
+				{
+					"id": "i21-1",
+					"parts": []
+				}
+			],
+			"abbr": "",
+			"grand": false,
+			"parts": []
 		}
 	],
 	"groups": [
 		{
 			"id": "g1",
 			"first": "i26",
-			"last": "i20",
+			"last": "i21",
 			"symbol": "bracket",
 			"label": "Holzbläser",
 			"barThru": false
@@ -418,7 +431,7 @@
 					"uly": 1215,
 					"lrx": 2337,
 					"lry": 1281,
-					"staff": "i21-1"
+					"staff": "i29-1"
 				},
 				{
 					"ulx": 465,
