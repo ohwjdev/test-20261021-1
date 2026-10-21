@@ -132,6 +132,16 @@
 			]
 		},
 		{
+			"id": "i25",
+			"name": "Kontrabass",
+			"staves": [
+				{
+					"id": "i25-1",
+					"label": ""
+				}
+			]
+		},
+		{
 			"id": "i18",
 			"name": "K.-B",
 			"staves": [
@@ -414,7 +424,8 @@
 					"ulx": 493,
 					"uly": 3125,
 					"lrx": 2331,
-					"lry": 3185
+					"lry": 3185,
+					"staff": "i25-1"
 				}
 			],
 			"grandstaves": []
