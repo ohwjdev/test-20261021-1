@@ -53,50 +53,30 @@
 			]
 		},
 		{
-			"id": "i28",
-			"name": "Klarinette in A",
-			"abbr": "",
-			"grand": false,
-			"parts": [
-				{
-					"name": "I"
-				},
-				{
-					"name": "II"
-				}
-			],
+			"id": "i20",
+			"name": "Klarinette in A I, II",
 			"staves": [
 				{
-					"id": "i28-1",
-					"parts": [
-						0,
-						1
-					]
+					"id": "i20-1",
+					"parts": []
 				}
-			]
+			],
+			"abbr": "",
+			"grand": false,
+			"parts": []
 		},
 		{
-			"id": "i29",
-			"name": "Fagott",
-			"abbr": "",
-			"grand": false,
-			"parts": [
-				{
-					"name": "I"
-				},
-				{
-					"name": "II"
-				}
-			],
+			"id": "i21",
+			"name": "Fagott I, II",
 			"staves": [
 				{
-					"id": "i29-1",
-					"parts": [
-						0,
-						1
-					]
+					"id": "i21-1",
+					"parts": []
 				}
-			]
+			],
+			"abbr": "",
+			"grand": false,
+			"parts": []
 		},
 		{
 			"id": "i22",
@@ -117,20 +97,6 @@
 				{
 					"id": "i22-4",
 					"parts": []
-				},
-				{
-					"id": "i22-5",
-					"parts": [
-						0,
-						1
-					]
-				},
-				{
-					"id": "i22-6",
-					"parts": [
-						2,
-						3
-					]
 				}
 			],
 			"abbr": "",
@@ -294,37 +260,24 @@
 			"parts": []
 		},
 		{
-			"id": "i20",
-			"name": "Klarinette in A I, II",
-			"staves": [
-				{
-					"id": "i20-1",
-					"parts": []
-				}
-			],
-			"abbr": "",
-			"grand": false,
-			"parts": []
-		},
-		{
-			"id": "i21",
-			"name": "Fagott I, II",
-			"staves": [
-				{
-					"id": "i21-1",
-					"parts": []
-				}
-			],
-			"abbr": "",
-			"grand": false,
-			"parts": []
-		},
-		{
 			"id": "i1",
 			"name": "Flöte I",
 			"staves": [
 				{
 					"id": "i1-1",
+					"parts": []
+				}
+			],
+			"abbr": "",
+			"grand": false,
+			"parts": []
+		},
+		{
+			"id": "i2",
+			"name": "Flöte II",
+			"staves": [
+				{
+					"id": "i2-1",
 					"parts": []
 				}
 			],
@@ -435,28 +388,28 @@
 					"uly": 1032,
 					"lrx": 2336,
 					"lry": 1116,
-					"staff": "i28-1"
+					"staff": "i20-1"
 				},
 				{
 					"ulx": 491,
 					"uly": 1215,
 					"lrx": 2337,
 					"lry": 1281,
-					"staff": "i29-1"
+					"staff": "i21-1"
 				},
 				{
 					"ulx": 465,
 					"uly": 1349,
 					"lrx": 2335,
 					"lry": 1424,
-					"staff": "i22-5"
+					"staff": "i22-2"
 				},
 				{
 					"ulx": 473,
 					"uly": 1477,
 					"lrx": 2335,
 					"lry": 1544,
-					"staff": "i22-6"
+					"staff": "i22-3"
 				},
 				{
 					"ulx": 473,
@@ -644,21 +597,21 @@
 					"uly": 238,
 					"lrx": 2339,
 					"lry": 301,
-					"staff": "i26-1"
+					"staff": "i1-1"
 				},
 				{
 					"ulx": 265,
 					"uly": 342,
 					"lrx": 2338,
 					"lry": 401,
-					"staff": "i26-2"
+					"staff": "i2-1"
 				},
 				{
 					"ulx": 255,
 					"uly": 450,
 					"lrx": 2345,
 					"lry": 505,
-					"staff": "i27-1"
+					"staff": "i19-1"
 				},
 				{
 					"ulx": 259,
