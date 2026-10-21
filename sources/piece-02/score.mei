@@ -113,10 +113,11 @@
                         </staffGrp>
                         <staffGrp xml:id="i27" symbol="bracket" bar.thru="true">
                            <label xml:id="label-5">Oboe</label>
+                           <labelAbbr xml:id="labelAbbr-4">Ob.</labelAbbr>
                            <instrDef xml:id="instrDef-2"/>
                            <staffDef xml:id="i27-1" n="3" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4">
                               <label xml:id="label-6">I.II</label>
-                              <labelAbbr xml:id="labelAbbr-4">I.II</labelAbbr>
+                              <labelAbbr xml:id="labelAbbr-5">I.II</labelAbbr>
                               <layerDef xml:id="layerDef-1" n="1"><label xml:id="label-7">I</label></layerDef>
                               <layerDef xml:id="layerDef-2" n="2"><label xml:id="label-8">II</label></layerDef>
                            </staffDef>
