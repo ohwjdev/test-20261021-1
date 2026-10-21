@@ -2,16 +2,6 @@
 	"note": "Corrected layout boxes, in the page image's pixel space. The measure zones in score.mei are the measure boxes grown by a margin.",
 	"instruments": [
 		{
-			"id": "i4",
-			"name": "Fagott I II",
-			"staves": [
-				{
-					"id": "i4-1",
-					"label": ""
-				}
-			]
-		},
-		{
 			"id": "i5",
 			"name": "I Horn ın F",
 			"staves": [
@@ -229,26 +219,6 @@
 			"staves": [
 				{
 					"id": "i24-1",
-					"label": ""
-				}
-			]
-		},
-		{
-			"id": "i3",
-			"name": "Oboe fi",
-			"staves": [
-				{
-					"id": "i3-1",
-					"label": ""
-				}
-			]
-		},
-		{
-			"id": "i17",
-			"name": "Klar",
-			"staves": [
-				{
-					"id": "i17-1",
 					"label": ""
 				}
 			]
@@ -870,21 +840,21 @@
 					"uly": 1776,
 					"lrx": 2335,
 					"lry": 1839,
-					"staff": "i3-1"
+					"staff": "i19-1"
 				},
 				{
 					"ulx": 255,
 					"uly": 1911,
 					"lrx": 2337,
 					"lry": 1977,
-					"staff": "i17-1"
+					"staff": "i20-1"
 				},
 				{
 					"ulx": 257,
 					"uly": 2049,
 					"lrx": 2337,
 					"lry": 2114,
-					"staff": "i4-1"
+					"staff": "i21-1"
 				},
 				{
 					"ulx": 255,
