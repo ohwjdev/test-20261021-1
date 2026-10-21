@@ -51,7 +51,7 @@
             <zone xml:id="zone-1-1" type="measure" n="1" ulx="443" uly="541" lrx="866" lry="3218"/>
             <zone xml:id="zone-1-2" type="measure" n="2" ulx="804" uly="546" lrx="1130" lry="3220"/>
             <zone xml:id="zone-1-3" type="measure" n="3" ulx="1064" uly="549" lrx="1352" lry="3217"/>
-            <zone xml:id="zone-1-4" type="measure" n="4" ulx="1285" uly="545" lrx="1620" lry="3211"/>
+            <zone xml:id="zone-1-4" type="measure" n="4" ulx="1285" uly="545" lrx="1627" lry="3211"/>
             <zone xml:id="zone-1-5" type="measure" n="5" ulx="1562" uly="549" lrx="1827" lry="3222"/>
             <zone xml:id="zone-1-6" type="measure" n="6" ulx="1764" uly="542" lrx="2154" lry="3226"/>
             <zone xml:id="zone-1-7" type="measure" n="7" ulx="2090" uly="539" lrx="2370" lry="3220"/>
