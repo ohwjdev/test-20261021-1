@@ -2,16 +2,6 @@
 	"note": "Corrected layout boxes, in the page image's pixel space. The measure zones in score.mei are the measure boxes grown by a margin.",
 	"instruments": [
 		{
-			"id": "i8",
-			"name": "Posaune II",
-			"staves": [
-				{
-					"id": "i8-1",
-					"label": ""
-				}
-			]
-		},
-		{
 			"id": "i9",
 			"name": "Pauken in A, e",
 			"staves": [
@@ -856,7 +846,7 @@
 					"uly": 2546,
 					"lrx": 2339,
 					"lry": 2610,
-					"staff": "i8-1"
+					"staff": "i24-1"
 				},
 				{
 					"ulx": 256,
