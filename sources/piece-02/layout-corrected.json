@@ -294,23 +294,6 @@
 			"parts": []
 		},
 		{
-			"id": "i19",
-			"name": "Oboe I, II",
-			"staves": [
-				{
-					"id": "i19-1",
-					"parts": []
-				},
-				{
-					"id": "i19-2",
-					"parts": []
-				}
-			],
-			"abbr": "",
-			"grand": false,
-			"parts": []
-		},
-		{
 			"id": "i20",
 			"name": "Klarinette in A I, II",
 			"staves": [
@@ -348,13 +331,30 @@
 			"abbr": "",
 			"grand": false,
 			"parts": []
+		},
+		{
+			"id": "i19",
+			"name": "Oboe I, II",
+			"staves": [
+				{
+					"id": "i19-1",
+					"parts": []
+				},
+				{
+					"id": "i19-2",
+					"parts": []
+				}
+			],
+			"abbr": "",
+			"grand": false,
+			"parts": []
 		}
 	],
 	"groups": [
 		{
 			"id": "g1",
 			"first": "i26",
-			"last": "i1",
+			"last": "i19",
 			"symbol": "bracket",
 			"label": "Holzbläser",
 			"barThru": false
@@ -658,7 +658,7 @@
 					"uly": 450,
 					"lrx": 2345,
 					"lry": 505,
-					"staff": "i19-1"
+					"staff": "i27-1"
 				},
 				{
 					"ulx": 259,
