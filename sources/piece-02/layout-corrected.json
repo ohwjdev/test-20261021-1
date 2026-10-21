@@ -172,6 +172,16 @@
 			]
 		},
 		{
+			"id": "i20",
+			"name": "Klarinette in A I, II",
+			"staves": [
+				{
+					"id": "i20-1",
+					"label": ""
+				}
+			]
+		},
+		{
 			"id": "i3",
 			"name": "Oboe fi",
 			"staves": [
@@ -266,7 +276,8 @@
 					"ulx": 474,
 					"uly": 1032,
 					"lrx": 2336,
-					"lry": 1116
+					"lry": 1116,
+					"staff": "i20-1"
 				},
 				{
 					"ulx": 491,
