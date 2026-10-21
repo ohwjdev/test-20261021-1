@@ -202,6 +202,26 @@
 			]
 		},
 		{
+			"id": "i23",
+			"name": "Trompete in F",
+			"staves": [
+				{
+					"id": "i23-1",
+					"label": ""
+				}
+			]
+		},
+		{
+			"id": "i24",
+			"name": "Posaune",
+			"staves": [
+				{
+					"id": "i24-1",
+					"label": ""
+				}
+			]
+		},
+		{
 			"id": "i3",
 			"name": "Oboe fi",
 			"staves": [
@@ -325,14 +345,14 @@
 					"uly": 1629,
 					"lrx": 2337,
 					"lry": 1701,
-					"staff": "i7-1"
+					"staff": "i23-1"
 				},
 				{
 					"ulx": 484,
 					"uly": 1791,
 					"lrx": 2337,
 					"lry": 1866,
-					"staff": "i8-1"
+					"staff": "i24-1"
 				},
 				{
 					"ulx": 481,
