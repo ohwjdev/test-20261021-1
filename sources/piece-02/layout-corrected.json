@@ -182,6 +182,16 @@
 			]
 		},
 		{
+			"id": "i21",
+			"name": "Fagott I, II",
+			"staves": [
+				{
+					"id": "i21-1",
+					"label": ""
+				}
+			]
+		},
+		{
 			"id": "i3",
 			"name": "Oboe fi",
 			"staves": [
@@ -284,7 +294,7 @@
 					"uly": 1215,
 					"lrx": 2337,
 					"lry": 1281,
-					"staff": "i4-1"
+					"staff": "i21-1"
 				},
 				{
 					"ulx": 465,
