@@ -53,17 +53,27 @@
 			]
 		},
 		{
-			"id": "i20",
-			"name": "Klarinette in A I, II",
-			"staves": [
-				{
-					"id": "i20-1",
-					"parts": []
-				}
-			],
+			"id": "i28",
+			"name": "Klarinette in A",
 			"abbr": "",
 			"grand": false,
-			"parts": []
+			"parts": [
+				{
+					"name": "I"
+				},
+				{
+					"name": "II"
+				}
+			],
+			"staves": [
+				{
+					"id": "i28-1",
+					"parts": [
+						0,
+						1
+					]
+				}
+			]
 		},
 		{
 			"id": "i21",
@@ -301,19 +311,32 @@
 			"abbr": "",
 			"grand": false,
 			"parts": []
+		},
+		{
+			"id": "i20",
+			"name": "Klarinette in A I, II",
+			"staves": [
+				{
+					"id": "i20-1",
+					"parts": []
+				}
+			],
+			"abbr": "",
+			"grand": false,
+			"parts": []
 		}
 	],
 	"groups": [
 		{
 			"id": "g1",
 			"first": "i26",
-			"last": "i19",
+			"last": "i20",
 			"symbol": "bracket",
 			"label": "Holzbläser",
 			"barThru": false
 		}
 	],
-	"instrumentsFixed": true,
+	"instrumentsFixed": false,
 	"pages": [
 		{
 			"image": "../img/04.jpg",
@@ -388,7 +411,7 @@
 					"uly": 1032,
 					"lrx": 2336,
 					"lry": 1116,
-					"staff": "i20-1"
+					"staff": "i28-1"
 				},
 				{
 					"ulx": 491,
