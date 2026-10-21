@@ -192,6 +192,16 @@
 			]
 		},
 		{
+			"id": "i22",
+			"name": "Horn in F",
+			"staves": [
+				{
+					"id": "i22-1",
+					"label": ""
+				}
+			]
+		},
+		{
 			"id": "i3",
 			"name": "Oboe fi",
 			"staves": [
@@ -301,7 +311,7 @@
 					"uly": 1349,
 					"lrx": 2335,
 					"lry": 1424,
-					"staff": "i5-1"
+					"staff": "i22-1"
 				},
 				{
 					"ulx": 473,
