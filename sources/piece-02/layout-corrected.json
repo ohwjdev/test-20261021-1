@@ -26,6 +26,13 @@
 					"parts": [
 						1
 					]
+				},
+				{
+					"id": "i26-3",
+					"parts": [
+						0,
+						1
+					]
 				}
 			]
 		},
@@ -48,6 +55,12 @@
 					"parts": [
 						0,
 						1
+					]
+				},
+				{
+					"id": "i27-2",
+					"parts": [
+						0
 					]
 				}
 			]
@@ -78,13 +91,23 @@
 		{
 			"id": "i29",
 			"name": "Fagott",
-			"abbr": "",
+			"abbr": "F",
 			"grand": false,
-			"parts": [],
+			"parts": [
+				{
+					"name": "I"
+				},
+				{
+					"name": "II"
+				}
+			],
 			"staves": [
 				{
-					"id": "i29-1",
-					"parts": []
+					"id": "i29-2",
+					"parts": [
+						0,
+						1
+					]
 				}
 			]
 		},
@@ -93,20 +116,18 @@
 			"name": "Horn in F",
 			"staves": [
 				{
-					"id": "i22-1",
-					"parts": []
+					"id": "i22-5",
+					"parts": [
+						4,
+						5
+					]
 				},
 				{
-					"id": "i22-2",
-					"parts": []
-				},
-				{
-					"id": "i22-3",
-					"parts": []
-				},
-				{
-					"id": "i22-4",
-					"parts": []
+					"id": "i22-6",
+					"parts": [
+						6,
+						7
+					]
 				}
 			],
 			"abbr": "",
@@ -123,6 +144,18 @@
 				},
 				{
 					"name": "4"
+				},
+				{
+					"name": "I"
+				},
+				{
+					"name": "II"
+				},
+				{
+					"name": "III"
+				},
+				{
+					"name": "IV"
 				}
 			]
 		},
@@ -131,13 +164,23 @@
 			"name": "Trompete in F",
 			"staves": [
 				{
-					"id": "i23-1",
-					"parts": []
+					"id": "i23-2",
+					"parts": [
+						0,
+						1
+					]
 				}
 			],
 			"abbr": "",
 			"grand": false,
-			"parts": []
+			"parts": [
+				{
+					"name": "I"
+				},
+				{
+					"name": "II"
+				}
+			]
 		},
 		{
 			"id": "i24",
@@ -146,11 +189,29 @@
 				{
 					"id": "i24-1",
 					"parts": []
+				},
+				{
+					"id": "i24-2",
+					"parts": [
+						0,
+						1,
+						2
+					]
 				}
 			],
 			"abbr": "",
 			"grand": false,
-			"parts": []
+			"parts": [
+				{
+					"name": "I"
+				},
+				{
+					"name": "II"
+				},
+				{
+					"name": "III"
+				}
+			]
 		},
 		{
 			"id": "i9",
@@ -205,30 +266,32 @@
 			"parts": []
 		},
 		{
-			"id": "i13",
-			"name": "Violine I",
-			"staves": [
+			"id": "i30",
+			"name": "Violine",
+			"abbr": "Vl",
+			"grand": false,
+			"parts": [
 				{
-					"id": "i13-1",
-					"parts": []
+					"name": "I"
+				},
+				{
+					"name": "II"
 				}
 			],
-			"abbr": "",
-			"grand": false,
-			"parts": []
-		},
-		{
-			"id": "i14",
-			"name": "Violine II",
 			"staves": [
 				{
-					"id": "i14-1",
-					"parts": []
+					"id": "i30-2",
+					"parts": [
+						0
+					]
+				},
+				{
+					"id": "i30-3",
+					"parts": [
+						1
+					]
 				}
-			],
-			"abbr": "",
-			"grand": false,
-			"parts": []
+			]
 		},
 		{
 			"id": "i15",
@@ -239,35 +302,44 @@
 					"parts": []
 				}
 			],
-			"abbr": "",
+			"abbr": "Vla",
 			"grand": false,
 			"parts": []
 		},
 		{
-			"id": "i16",
-			"name": "Violoncello",
-			"staves": [
-				{
-					"id": "i16-1",
-					"parts": []
-				}
-			],
+			"id": "i31",
+			"name": "Violoncello und Kontrabass",
 			"abbr": "",
 			"grand": false,
-			"parts": []
-		},
-		{
-			"id": "i25",
-			"name": "Kontrabass",
-			"staves": [
+			"parts": [
 				{
-					"id": "i25-1",
-					"parts": []
+					"name": "Vc"
+				},
+				{
+					"name": "Kb"
 				}
 			],
-			"abbr": "",
-			"grand": false,
-			"parts": []
+			"staves": [
+				{
+					"id": "i31-2",
+					"parts": [
+						0
+					]
+				},
+				{
+					"id": "i31-3",
+					"parts": [
+						1
+					]
+				},
+				{
+					"id": "i31-4",
+					"parts": [
+						0,
+						1
+					]
+				}
+			]
 		},
 		{
 			"id": "i1",
@@ -302,10 +374,6 @@
 				{
 					"id": "i19-1",
 					"parts": []
-				},
-				{
-					"id": "i19-2",
-					"parts": []
 				}
 			],
 			"abbr": "",
@@ -337,26 +405,61 @@
 			"abbr": "",
 			"grand": false,
 			"parts": []
-		}
-	],
-	"groups": [
-		{
-			"id": "g1",
-			"first": "i26",
-			"last": "i21",
-			"symbol": "bracket",
-			"label": "Holzbläser",
-			"barThru": false
 		},
 		{
-			"id": "g2",
-			"first": "i27",
-			"last": "i21",
-			"symbol": "bracket",
-			"label": "",
-			"barThru": false
+			"id": "i13",
+			"name": "Violine I",
+			"staves": [
+				{
+					"id": "i13-1",
+					"parts": []
+				}
+			],
+			"abbr": "",
+			"grand": false,
+			"parts": []
+		},
+		{
+			"id": "i14",
+			"name": "Violine II",
+			"staves": [
+				{
+					"id": "i14-1",
+					"parts": []
+				}
+			],
+			"abbr": "",
+			"grand": false,
+			"parts": []
+		},
+		{
+			"id": "i16",
+			"name": "Violoncello",
+			"staves": [
+				{
+					"id": "i16-1",
+					"parts": []
+				}
+			],
+			"abbr": "Vc",
+			"grand": false,
+			"parts": []
+		},
+		{
+			"id": "i25",
+			"name": "Kontrabass",
+			"staves": [
+				{
+					"id": "i25-1",
+					"parts": []
+				}
+			],
+			"abbr": "Kb",
+			"grand": false,
+			"parts": []
 		}
 	],
+	"groups": [],
 	"instrumentsFixed": true,
 	"pages": [
 		{
@@ -439,35 +542,35 @@
 					"uly": 1215,
 					"lrx": 2337,
 					"lry": 1281,
-					"staff": "i29-1"
+					"staff": "i29-2"
 				},
 				{
 					"ulx": 465,
 					"uly": 1349,
 					"lrx": 2335,
 					"lry": 1424,
-					"staff": "i22-2"
+					"staff": "i22-5"
 				},
 				{
 					"ulx": 473,
 					"uly": 1477,
 					"lrx": 2335,
 					"lry": 1544,
-					"staff": "i22-3"
+					"staff": "i22-6"
 				},
 				{
 					"ulx": 473,
 					"uly": 1629,
 					"lrx": 2337,
 					"lry": 1701,
-					"staff": "i23-1"
+					"staff": "i23-2"
 				},
 				{
 					"ulx": 484,
 					"uly": 1791,
 					"lrx": 2337,
 					"lry": 1866,
-					"staff": "i24-1"
+					"staff": "i24-2"
 				},
 				{
 					"ulx": 481,
@@ -502,14 +605,14 @@
 					"uly": 2510,
 					"lrx": 2335,
 					"lry": 2575,
-					"staff": "i13-1"
+					"staff": "i30-2"
 				},
 				{
 					"ulx": 476,
 					"uly": 2641,
 					"lrx": 2340,
 					"lry": 2715,
-					"staff": "i14-1"
+					"staff": "i30-3"
 				},
 				{
 					"ulx": 477,
@@ -523,14 +626,14 @@
 					"uly": 2969,
 					"lrx": 2338,
 					"lry": 3047,
-					"staff": "i16-1"
+					"staff": "i31-2"
 				},
 				{
 					"ulx": 493,
 					"uly": 3125,
 					"lrx": 2331,
 					"lry": 3185,
-					"staff": "i25-1"
+					"staff": "i31-3"
 				}
 			],
 			"grandstaves": []
@@ -676,28 +779,28 @@
 					"uly": 814,
 					"lrx": 2335,
 					"lry": 871,
-					"staff": "i22-2"
+					"staff": "i22-5"
 				},
 				{
 					"ulx": 263,
 					"uly": 926,
 					"lrx": 2342,
 					"lry": 985,
-					"staff": "i22-3"
+					"staff": "i22-6"
 				},
 				{
 					"ulx": 255,
 					"uly": 1046,
 					"lrx": 2327,
 					"lry": 1107,
-					"staff": "i23-1"
+					"staff": "i23-2"
 				},
 				{
 					"ulx": 260,
 					"uly": 1175,
 					"lrx": 2336,
 					"lry": 1233,
-					"staff": "i24-1"
+					"staff": "i24-2"
 				},
 				{
 					"ulx": 260,
@@ -753,7 +856,7 @@
 					"uly": 2270,
 					"lrx": 2327,
 					"lry": 2333,
-					"staff": "i19-2"
+					"staff": "i27-2"
 				},
 				{
 					"ulx": 263,
@@ -774,7 +877,7 @@
 					"uly": 2591,
 					"lrx": 2330,
 					"lry": 2655,
-					"staff": "i22-2"
+					"staff": "i22-5"
 				},
 				{
 					"ulx": 261,
@@ -903,7 +1006,7 @@
 					"uly": 380,
 					"lrx": 2336,
 					"lry": 443,
-					"staff": "i19-2"
+					"staff": "i27-2"
 				},
 				{
 					"ulx": 263,
@@ -924,7 +1027,7 @@
 					"uly": 757,
 					"lrx": 2338,
 					"lry": 826,
-					"staff": "i22-1"
+					"staff": "i22-5"
 				},
 				{
 					"ulx": 268,
@@ -966,7 +1069,7 @@
 					"uly": 1651,
 					"lrx": 2334,
 					"lry": 1715,
-					"staff": "i1-1"
+					"staff": "i26-3"
 				},
 				{
 					"ulx": 259,
@@ -994,21 +1097,21 @@
 					"uly": 2176,
 					"lrx": 2341,
 					"lry": 2241,
-					"staff": "i22-2"
+					"staff": "i22-5"
 				},
 				{
 					"ulx": 263,
 					"uly": 2280,
 					"lrx": 2332,
 					"lry": 2347,
-					"staff": "i22-4"
+					"staff": "i22-6"
 				},
 				{
 					"ulx": 261,
 					"uly": 2407,
 					"lrx": 2341,
 					"lry": 2471,
-					"staff": "i23-1"
+					"staff": "i23-2"
 				},
 				{
 					"ulx": 270,
@@ -1050,7 +1153,7 @@
 					"uly": 3192,
 					"lrx": 2337,
 					"lry": 3258,
-					"staff": "i16-1"
+					"staff": "i31-4"
 				}
 			],
 			"grandstaves": []
