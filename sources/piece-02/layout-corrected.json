@@ -357,7 +357,7 @@
 			"barThru": false
 		}
 	],
-	"instrumentsFixed": true,
+	"instrumentsFixed": false,
 	"pages": [
 		{
 			"image": "../img/04.jpg",
