@@ -110,7 +110,7 @@
       <body xml:id="body-1">
          <mdiv xml:id="mdiv-1" n="1">
             <score xml:id="score-1">
-               <scoreDef xml:id="scoreDef-1">
+               <scoreDef xml:id="scoreDef-1" keysig="4f">
                   <staffGrp xml:id="staffGrp-1">
                      <staffDef xml:id="i1-1" n="1" lines="5" clef.shape="G" clef.line="2" meter.count="4" meter.unit="4">
                         <label xml:id="label-1">Singstimme. Tenor</label>
