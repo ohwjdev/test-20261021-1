@@ -1,2 +1,2 @@
 comment_id,task_id,subtask_id,kind,page,measure_start,measure_end,author_id,timestamp,resolved,parent_id,body,fragment
-96652e97,P0002,S0001,fail,3,,,38179254,2026-10-22T10:13:19.834Z,,,needs a rework,
+96652e97,P0002,S0001,fail,3,,,38179254,2026-10-22T10:13:19.834Z,true,,needs a rework,
