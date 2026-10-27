@@ -13,3 +13,4 @@ timestamp,task_id,subtask_id,user_id,action,outcome,detail,command,version,input
 2026-10-23T14:26:34.084Z,T0004,,297915765,release_encoding,accepted,,campaign.abandon,1,"{""task_id"":""T0004"",""subtask_id"":""""}",11
 2026-10-24T12:23:15.061Z,P0001,,38179254,reap,released_with_work,encoding,,,,
 2026-10-27T09:44:32.719Z,T0004,,297915765,claim_encoding,accepted,,campaign.claimTask,1,"{""task_id"":""T0004""}",12
+2026-10-27T09:48:36.546Z,T0004,,297915765,submit_encoding,accepted,,campaign.submitEncoding,1,"{""task_id"":""T0004""}",13
