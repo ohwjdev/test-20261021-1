@@ -33,7 +33,7 @@
 		}
 	],
 	"groups": [],
-	"instrumentsFixed": true,
+	"instrumentsFixed": false,
 	"pages": [
 		{
 			"image": "../img/01.jpg",
