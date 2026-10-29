@@ -9,7 +9,7 @@ campaign:
   license: "CC-BY-4.0"
 automation:
   central_repository: "lets-encode/lets-encode"
-  ref: "develop-instruments-named"
+  ref: "develop"
   path: "scripts/coordinator.ts"
 source:
   kind: "facsimile"
