@@ -1,3 +1,4 @@
 comment_id,task_id,subtask_id,kind,page,measure_start,measure_end,author_id,timestamp,resolved,parent_id,body,fragment
 96652e97,P0002,S0001,fail,3,,,38179254,2026-10-22T10:13:19.834Z,true,,needs a rework,
 c4f5452b,T0001,,comment,,,,297915765,2026-11-03T10:11:26Z,,,Test comment: checking how the app reads the coordinator's decision.,
+,T0001,,comment,,,,,,,,"Second test comment: kept across a reload, then sent.",
